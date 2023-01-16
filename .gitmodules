@@ -1,0 +1,4 @@
+[submodule "CAPW-Servicios-Tecnicos/consulta-judicial"]
+	path = CAPW-Servicios-Tecnicos/consulta-judicial
+	url = git@github.com:CAPW-Servicios-Tecnicos/consulta-judicial.git
+	branch = 14.0
